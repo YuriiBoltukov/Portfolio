@@ -1,0 +1,77 @@
+body.dark {
+    color: #ffffff;
+    background-color: #000000;
+}
+.dark a {
+    color: inherit;
+}
+.dark input,
+.dark textarea {
+    background: rgba(0, 0, 0, 0.5);
+    border-color: #BDAE82;
+    color: #BDAE82;
+}
+.dark input::placeholder,
+.dark textarea::placeholder {
+    color: #BDAE82;
+}
+.dark .btn {
+    border-color: #BDAE82;
+}
+.dark .btn:hover {
+    color: #ffffff;
+}
+.dark .btn-fill {
+    color: #000000;
+    background-color: #BDAE82;
+}
+.dark .btn-outline {
+    color: #BDAE82;
+    background-color: transparent;
+}
+.dark .logo:hover {
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
+}
+.dark .nav-item:hover {
+    color: #BDAE82;
+}
+.dark .language-item {
+    background-color: transparent;
+    color: #ffffff;
+}
+.dark .language-item:hover {
+    color: #BDAE82;
+}
+.dark .language-item--active {
+    color: #BDAE82;
+}
+.dark .section-title {
+    color: #BDAE82;
+}
+.dark .section-title:before {
+    background-color: #BDAE82;
+}
+.dark .section-title:after {
+    background-color: #000000;
+}
+.dark .video-btn {
+    background-color: transparent;
+}
+.dark .price-item {
+    border-color: #BDAE82;
+}
+.dark .price-cost {
+    color: #BDAE82;
+}
+.dark .social-img:hover {
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
+}
+.dark .modal {
+    background-color: #000;
+}
+.dark .btn__burger {
+    background: transparent;
+}
+.dark .theme-reverse:hover {
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
+}

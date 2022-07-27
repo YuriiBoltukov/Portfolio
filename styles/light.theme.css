@@ -1,0 +1,119 @@
+body.light {
+    color: #000000;
+    background-color: #ffffff;
+}
+.light p {
+    color: white;
+}
+.light h1 {
+    color: #ffffff;
+}
+.light a {
+    color: #ffffff;
+}
+.light input,
+.light textarea {
+    background: rgba(0, 0, 0, 0.5);
+    border-color: #BDAE82;
+    color: #BDAE82;
+}
+.light input::placeholder,
+.light textarea::placeholder {
+    color: #BDAE82;
+}
+.light .btn {
+    border-color: #BDAE82;
+}
+.light .btn:hover {
+    color: #ffffff;
+}
+.light .btn-fill {
+    color: #000000;
+    background-color: #BDAE82;
+}
+.light .btn-outline {
+    color: #BDAE82;
+    background-color: transparent;
+}
+.light .logo:hover {
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
+}
+.light .nav-item:hover {
+    color: #BDAE82;
+}
+.light .language-item {
+    background-color: transparent;
+    color: #ffffff;
+}
+.light .language-item:hover {
+    color: #BDAE82;
+}
+.light .language-item--active {
+    color: #BDAE82;
+}
+.light .section-title {
+    color: #000000;
+}
+.light .section-title:before {
+    background-color: #000000
+}
+.light .section-title:after {
+    background-color: #ffffff;
+}
+.light p.skills-text {
+    color: #000000;
+}
+.light .video-btn {
+    background-color: transparent;
+}
+.light .price-item {
+    border-color: #BDAE82;
+}
+.light .price-cost {
+    color: #BDAE82;
+}
+.light .social-img:hover {
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
+}
+.light .modal {
+    background-color: #000;
+}
+.light .btn__burger {
+    background: transparent;
+}
+.light .theme-reverse {
+    filter: invert(26%) sepia(15%) saturate(638%) hue-rotate(7deg) brightness(92%) contrast(87%);
+}
+.light .theme-reverse:hover {
+    filter: none;
+}
+.light .footer-container {
+    background-color: #000000;
+}
+.light .footer-data {
+    color: #ffffff;
+}
+.light .footer-text {
+    color: #ffffff;
+}
+.light .modal {
+    background-color: #ffffff;
+}
+.light .contacts-title {
+    color: #ffffff;
+}
+.light .modal__burger img {
+    filter:  contrast(0%);
+}
+.light .span-color {
+    color: #ffffff;
+}
+.light .btn:hover {
+    background-color: #BDAE82;
+}
+.light .nav-link:hover {
+    color: #BDAE82;
+}
+.light .modal__link {
+    color: #000000;
+}
